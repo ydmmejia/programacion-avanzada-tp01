@@ -308,4 +308,4 @@ Cada ejercicio fue sometido a múltiples escenarios:
 ---
 
 **Entrega:** 17 de Octubre, 2025  
-**Repositorio:** github.com/[yemejiam]/programacion-avanzada-tp01
+**Repositorio:** github.com/[ydmmejia]/programacion-avanzada-tp01
