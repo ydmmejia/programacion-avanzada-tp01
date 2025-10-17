@@ -13,7 +13,7 @@
 Este trabajo fue desarrollado colaborativamente por:
 
 - Juan David Jaimes Rebolledo
-- Sebastian Camilo Nova Ovalle
+- Sebastian Camilo Nova Ovallos
 - Yeison David Mejia Mosquera
 
 ---
@@ -289,7 +289,7 @@ Cada ejercicio fue sometido a múltiples escenarios:
 
 **Desarrolladores:**
 - Juan David Jaimes Rebolledo
-- Sebastian Camilo Nova Ovalle  
+- Sebastian Camilo Nova Ovallos  
 - Yeison David Mejia Mosquera
 
 **Institución:** Universidad Nacional de Colombia  
